@@ -7,4 +7,5 @@ Patients can see which time which doctor is available or not.
 Doctors can see all appointments and change the action of an appointment. Doctors also can see all patients and prescription lists.
 
 Front-end Technology: HTML5, CSS3, Bootstrap4, React JS
+
 Back-end Technology: Node JS, Express JS, MongoDB
